@@ -83,7 +83,7 @@ class OpDetailForm extends Component {
               </p>
             </Col>
             <Col
-              xs={{ span: 24 }}
+              xs={{ span: 25 }}
               md={{ span: 16 }}
             >
               <Form.Item
